@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f94c590c9fd923d4babd3069e9d2046d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GimpoGothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 439d91501f987aa4299d50378524b5c6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
